@@ -3,3 +3,4 @@ function consolesNumbers(num) {
 }
 
 consolesNumbers(10)
+console.log(McTaggart)
